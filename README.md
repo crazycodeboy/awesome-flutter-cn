@@ -104,6 +104,7 @@
 
 ### 教程
 
+* [革命性移动端开发框架-Flutter时间简史](http://www.imooc.com/article/281683)![ new](http://www.devio.org/img/ico/ico_new.gif)
 - [Animated Chat](https://codelabs.developers.google.com/codelabs/flutter/#0) - 通过Google Code Labs构建漂亮的用户界面。
 - [Firebase Chat](https://codelabs.developers.google.com/codelabs/flutter-firebase/#0) - Google Code Labs整合Firebase。
 - [Planets-Flutter: from design to app](http://sergiandreplace.com/2017/09/planets-flutter-from-design-to-app) - 详细的planets设计教程。
@@ -120,6 +121,7 @@
 
 ### 网站/博客
 
+* [Flutter技术专栏](http://www.devio.org/tags/#Flutter)![ new](http://www.devio.org/img/ico/ico_new.gif)
 - [SZAŁKO-BLOG](https://marcinszalek.pl/) - 渐进式高级设计，由[Marcin Szalek](https://marcinszalek.pl/)提供。
 - [Sergi & Replace](https://sergiandreplace.com/) - 从基础到高级文章和教程， 由 [Sergi Martínez](https://github.com/sergiandreplace)提供。
 - [Flutter by Example](https://flutterbyexample.com/) - 基于Redux，Firebase，自定义动画和UI的教程。
@@ -143,6 +145,7 @@
 
 ## 视频
 
+* [Flutter从入门到进阶实战携程网App](https://coding.imooc.com/class/321.html) - 一门涵盖入门 -> 进阶 -> 实战 -> 拔高拓展的视频教程![ new](http://www.devio.org/img/ico/ico_new.gif)。
 - [Tensor Programming](https://www.youtube.com/watch?v=WwhyaqNtNQY&list=PLJbE2Yu2zumDqr_-hqpAN0nIr6m14TAsd) [67🎬] - 非常丰富的Dart Flutter 教程，由[Tensor Programming](http://tensor-programming.com/)提供。
 - [Fluttery](https://www.youtube.com/channel/UCtWyVkPpb8An90SNDTNF0Pg) - Fluttery是一个致力于使用Flutter框架进行挑战和探索的频道。
 - [Brandon Donnelson](https://www.youtube.com/playlist?list=PLBbgqtDgdc_RUWUCInIqxpY--C94C6Xjh) [55🎬] - 包含布局，数据库和技巧的视频。
