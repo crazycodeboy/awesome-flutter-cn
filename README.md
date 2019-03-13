@@ -19,9 +19,9 @@
 
 **欢迎加入：**
 
->Flutter中国开发者，群聊号码：`860708630`
+>Flutter中国开发者，1群：`860708630`（已满）2群：`187818932`,
 
-<img src="http://www.devio.org/img/other/flutter-china-develope-qrcode.jpg" width="270" height="370" />
+<img src="http://www.devio.org/img/other/flutter-china-develope-qrcode-0.jpg" height="370"/>
 
 
 
