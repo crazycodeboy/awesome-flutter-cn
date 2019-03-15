@@ -405,6 +405,7 @@
 ### 其他
 
 - [Cache Manager](https://github.com/renefloor/flutter_cache_manager) [73⭐] - 通用缓存管理器，由 [Rene Floor](https://github.com/renefloor)提供。
+- [mini-program](https://github.com/zhaomenghuan/flutter-mini-program) [4⭐] - 一个基于 Flutter 框架的小程序开发框架，由 [zhaomenghuan](https://github.com/zhaomenghuan)提供。
 
 ## 开源App
 
