@@ -459,6 +459,7 @@
 - [Flutter Community](https://github.com/fluttercommunity) - Flutter社区组件中心。
 - [OpenFlutter](https://github.com/OpenFlutter) - Make it easier 让Flutter更简单.
 - [Telegram chat (ru-RU)](https://t.me/rudart) - 俄语Dart＆Flutter社区。
+- [fvm](https://github.com/BEFOVY/fvm) - flutter 多版本管理工具
 
 ## 书籍
 
