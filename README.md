@@ -90,6 +90,7 @@
 
 ### 初学者
 
+- [Android developers to get started Flutter Guide](https://www.imooc.com/article/315337) - 给Android开发者Flutter上手指南。
 - [How can beginners learn Flutter development efficiently?](https://www.imooc.com/article/312207) - 初学者快速高效上手Flutter的指南。
 - [Roadmap to Flutter Development](https://github.com/olexale/flutter_roadmap) [956⭐] - 面向Flutter新手的视觉路线图，包括原理，模式和框架，由[Olexandr Leuschenko](https://github.com/olexale)提供。
 - [Layout Cheat Sheet](https://medium.com/flutter-community/flutter-layout-cheat-sheet-5363348d037e) - 布局小部件的广泛示例，由[Tomek Polański](https://github.com/tomaszpolanski).
