@@ -81,7 +81,9 @@
 
 ### 教程
 
-* [Flutter从入门到进阶](https://coding.imooc.com/class/321.html)![ new](http://www.devio.org/img/ico/ico_new.gif) - 解锁Flutter开发新姿势，一网打尽Flutter核心技术。
+* [Flutter高级进阶实战 仿哔哩哔哩APP](https://coding.imooc.com/class/487.html)![ new](http://www.devio.org/img/ico/ico_new.gif) - 一次性深度掌握Flutter高阶技能+商业级复杂项目架构设计与开发方案
+* [Flutter从入门到进阶](https://coding.imooc.com/class/321.html) - 解锁Flutter开发新姿势，一网打尽Flutter核心技术。
+* [Flutter2重磅发布支持Web和桌面应用](https://www.imooc.com/article/315453) - Flutter正式迎来了它的的第二个大版本，增加了对桌面和Web 应用程序的支持。
 * [革命性移动端开发框架-Flutter时间简史](http://www.imooc.com/article/281683) - 一文读懂Flutter前世今生。
 - [Animated Chat](https://codelabs.developers.google.com/codelabs/flutter/#0) - 通过Google Code Labs构建漂亮的用户界面。
 - [Firebase Chat](https://codelabs.developers.google.com/codelabs/flutter-firebase/#0) - Google Code Labs整合Firebase。
