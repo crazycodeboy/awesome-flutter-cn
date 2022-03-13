@@ -81,8 +81,11 @@
 
 ### 教程
 
-* [Flutter高级进阶实战 仿哔哩哔哩APP](https://coding.imooc.com/class/487.html)![ new](http://www.devio.org/img/ico/ico_new.gif) - 一次性深度掌握Flutter高阶技能+商业级复杂项目架构设计与开发方案
-* [Flutter从入门到进阶](https://coding.imooc.com/class/321.html) - 解锁Flutter开发新姿势，一网打尽Flutter核心技术。
+* [Flutter高级进阶实战 仿哔哩哔哩APP](https://api.devio.org/sales/u?cid=487&aid=3&platform=github)![ new](http://www.devio.org/img/ico/ico_new.gif) - 一次性深度掌握Flutter高阶技能+商业级复杂项目架构设计与开发方案
+* [Flutter从入门到进阶](https://api.devio.org/sales/u?cid=321&aid=3&platform=github) - 解锁Flutter开发新姿势，一网打尽Flutter核心技术。
+* [一文掌握Flutter 2.10新特性](https://www.imooc.com/article/323459) Flutter 2.10 包括 Flutter 对 Windows ⽀持的重⼤更新、⼏项重⼤的性能改进、框架中图标和颜⾊的新⽀持以及一些⼯具改进等。
+* [Flutter for Windows桌面端稳定版发布](https://www.imooc.com/article/324225) - 它使 Windows 开发者也能享受到移动开发的相同生产力和功能。
+* [Flutter 2.8 更新特性一览](https://www.imooc.com/article/324225) - Flutter 2.8正式版重磅发布，还不来看看？
 * [Flutter2重磅发布支持Web和桌面应用](https://www.imooc.com/article/315453) - Flutter正式迎来了它的的第二个大版本，增加了对桌面和Web 应用程序的支持。
 * [革命性移动端开发框架-Flutter时间简史](http://www.imooc.com/article/281683) - 一文读懂Flutter前世今生。
 - [Animated Chat](https://codelabs.developers.google.com/codelabs/flutter/#0) - 通过Google Code Labs构建漂亮的用户界面。
@@ -118,7 +121,7 @@
 
 ## 视频
 
-* [Flutter从入门到进阶实战携程网App](https://coding.imooc.com/class/321.html) - 一门涵盖入门 -> 进阶 -> 实战 -> 拔高拓展的视频教程![ new](http://www.devio.org/img/ico/ico_new.gif)。
+* [Flutter从入门到进阶实战携程网App](https://api.devio.org/sales/u?cid=321&aid=3&platform=github) - 一门涵盖入门 -> 进阶 -> 实战 -> 拔高拓展的视频教程![ new](http://www.devio.org/img/ico/ico_new.gif)。
 - [Boring Show](https://www.youtube.com/watch?v=CPmN4-i9zC8&list=PLOU2XLYxmsIK0r_D-zWcmJ1plIcDNnRkK) - 与Flutter团队一起探索。
 - [Tensor Programming](https://www.youtube.com/watch?v=WwhyaqNtNQY&list=PLJbE2Yu2zumDqr_-hqpAN0nIr6m14TAsd) [86🎬] - 非常丰富的Dart Flutter 教程，由[Tensor Programming](http://tensor-programming.com/)提供。
 - [Flutter入门](https://www.imooc.com/learn/1170) - 3小时完成微信读书发现界面。
