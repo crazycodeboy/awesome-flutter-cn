@@ -83,6 +83,8 @@
 
 * [Flutter高级进阶实战 仿哔哩哔哩APP](https://api.devio.org/sales/u?cid=487&aid=3&platform=github)![ new](http://www.devio.org/img/ico/ico_new.gif) - 一次性深度掌握Flutter高阶技能+商业级复杂项目架构设计与开发方案
 * [Flutter从入门到进阶](https://api.devio.org/sales/u?cid=321&aid=3&platform=github) - 解锁Flutter开发新姿势，一网打尽Flutter核心技术。
+* [Flutter 3.7更新详解](https://www.devio.org/2023/01/25/whats-new-in-flutter-3-7/) - 全局文本选择、Impeller 渲染速度、DevTools，为开发者们带来一个更好用的 Flutter 3.7！
+* [Flutter 3.3更新详解](https://www.devio.org/2022/11/06/whats-new-in-flutter-3-3/) - 文字处理、性能提升和其他改进和更新，为开发者们带来一个更好用的 Flutter 3.3！
 * [Flutter 3更新详解](https://www.imooc.com/article/325757) - 深入了解最新版本，包括 macOS 和 Linux 平台的稳定支持、多项性能改进等！
 * [一文掌握Flutter 2.10新特性](https://www.imooc.com/article/323459) - Flutter 2.10 包括 Flutter 对 Windows ⽀持的重⼤更新、⼏项重⼤的性能改进、框架中图标和颜⾊的新⽀持以及一些⼯具改进等。
 * [Flutter for Windows桌面端稳定版发布](https://www.imooc.com/article/324225) - 它使 Windows 开发者也能享受到移动开发的相同生产力和功能。
