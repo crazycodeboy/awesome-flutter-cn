@@ -81,8 +81,8 @@
 
 ### 教程
 
-* [Flutter高级进阶实战 仿哔哩哔哩APP](https://api.devio.org/sales/u?cid=487&aid=3&platform=github)![ new](http://www.devio.org/img/ico/ico_new.gif) - 一次性深度掌握Flutter高阶技能+商业级复杂项目架构设计与开发方案
-* [Flutter从入门到进阶](https://api.devio.org/sales/u?cid=321&aid=3&platform=github) - 解锁Flutter开发新姿势，一网打尽Flutter核心技术。
+* [Flutter高级进阶实战 仿哔哩哔哩APP](https://api.devio.org/ss/u?cid=487&aid=3&platform=github)![ new](http://www.devio.org/img/ico/ico_new.gif) - 一次性深度掌握Flutter高阶技能+商业级复杂项目架构设计与开发方案
+* [Flutter从入门到进阶](https://api.devio.org/ss/u?cid=321&aid=3&platform=github) - 解锁Flutter开发新姿势，一网打尽Flutter核心技术。
 * [Flutter 3.7更新详解](https://www.imooc.com/article/334835) - 全局文本选择、Impeller 渲染速度、DevTools，为开发者们带来一个更好用的 Flutter 3.7！
 * [Flutter 3.3更新详解](https://www.devio.org/2022/11/06/whats-new-in-flutter-3-3/) - 文字处理、性能提升和其他改进和更新，为开发者们带来一个更好用的 Flutter 3.3！
 * [Flutter 3更新详解](https://www.imooc.com/article/325757) - 深入了解最新版本，包括 macOS 和 Linux 平台的稳定支持、多项性能改进等！
@@ -124,7 +124,7 @@
 
 ## 视频
 
-* [Flutter从入门到进阶实战携程网App](https://api.devio.org/sales/u?cid=321&aid=3&platform=github) - 一门涵盖入门 -> 进阶 -> 实战 -> 拔高拓展的视频教程![ new](http://www.devio.org/img/ico/ico_new.gif)。
+* [Flutter从入门到进阶实战携程网App](https://api.devio.org/ss/u?cid=321&aid=3&platform=github) - 一门涵盖入门 -> 进阶 -> 实战 -> 拔高拓展的视频教程![ new](http://www.devio.org/img/ico/ico_new.gif)。
 - [Boring Show](https://www.youtube.com/watch?v=CPmN4-i9zC8&list=PLOU2XLYxmsIK0r_D-zWcmJ1plIcDNnRkK) - 与Flutter团队一起探索。
 - [Tensor Programming](https://www.youtube.com/watch?v=WwhyaqNtNQY&list=PLJbE2Yu2zumDqr_-hqpAN0nIr6m14TAsd) [86🎬] - 非常丰富的Dart Flutter 教程，由[Tensor Programming](http://tensor-programming.com/)提供。
 - [Flutter入门](https://www.imooc.com/learn/1170) - 3小时完成微信读书发现界面。
