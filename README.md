@@ -197,7 +197,7 @@
 - [Sticky Header](https://github.com/letsar/flutter_sticky_header) [534⭐] - 带有粘性头部效果的组件，由[Romain Rastel](https://github.com/letsar)提供。
 - [Sticky Headers](https://github.com/slightfoot/flutter_sticky_headers) [539⭐] - 可配置的带粘粘头部效果的组件，由 [Simon Lightfoot](http://www.devangels.london/)提供。
 
-#### 抽提
+#### 抽屉
 
 - [Hidden Drawer Menu](https://github.com/RafaelBarbosatec/hidden_drawer_menu) [164⭐] - 漂亮的抽屉模式菜单功能带有透视动画，由[Rafael Almeida Barbosa](https://github.com/RafaelBarbosatec)提供。
 - [Flutter Inner Drawer](https://github.com/Dn-a/flutter_inner_drawer) [211⭐] - 创建内部抽屉（左/右）的简单方法，您可以在其中输入列表菜单，由[Di Natale Antonino](https://github.com/Dn-a)提供。
