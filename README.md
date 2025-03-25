@@ -634,7 +634,7 @@
 - [AuthPass](https://github.com/authpass/authpass) [372⭐] - 与手机和台式机兼容的Keepass密码管理器，由[hpoul](https://github.com/hpoul)提供。
 - [Fwitter](https://github.com/TheAlphamerc/flutter_twitter_clone) [852⭐] - 使用Firebase解决方案的完整Twitter克隆，由[Sonu Sharma](https://github.com/TheAlphamerc)提供。
 - [Harpy](https://github.com/robertodoering/harpy) [825⭐] - 由[Roberto Doering](https://github.com/robertodoering)开发的功能丰富的Twitter客户端。
-
+- [Cinema Booking](https://github.com/ChunhThanhDe/Cinema-Booking) [36⭐] - 由 [ChunhThanhDe](https://github.com/ChunhThanhDe)  一个功能齐全的 Flutter 应用程序，用于预订电影票，使用 Flutter Clean Template、BLoC、REST API、Firebase Auth 和单元测试构建 Unit Test。
 
 
 ## 实用工具
