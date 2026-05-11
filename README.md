@@ -634,6 +634,7 @@
 - [AuthPass](https://github.com/authpass/authpass) [372⭐] - 与手机和台式机兼容的Keepass密码管理器，由[hpoul](https://github.com/hpoul)提供。
 - [Fwitter](https://github.com/TheAlphamerc/flutter_twitter_clone) [852⭐] - 使用Firebase解决方案的完整Twitter克隆，由[Sonu Sharma](https://github.com/TheAlphamerc)提供。
 - [Harpy](https://github.com/robertodoering/harpy) [825⭐] - 由[Roberto Doering](https://github.com/robertodoering)开发的功能丰富的Twitter客户端。
+- [BeeCount 蜜蜂记账](https://github.com/TNT-Likely/BeeCount) [1500⭐] - 跨平台开源记账 App（Android/iOS/Web），主打数据自主与隐私优先，支持自建 BeeCount Cloud / iCloud / Supabase / WebDAV / S3 多端同步，离线优先，可选 AI 识别账单图片自动记账，由 [TNT-Likely](https://github.com/TNT-Likely) 开发。
 
 
 
