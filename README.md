@@ -257,6 +257,7 @@
 - [日历轮播小部件](https://github.com/dooboolab/flutter_calendar_carousel) <!-- stargazers:dooboolab/flutter_calendar_carousel--> - 由 [dooboolab](https://github.com/dooboolab/flutter_calendar_carousel) 制作的日历轮播小部件。
 - [表格日历](https://github.com/aleksanderwozniak/table_calendar) [1167⭐] - 由 [Aleksander Woźniak](https://github.com/aleksanderwozniak) 制作的整洁组织的表格日历，具有垂直自动调整大小的功能。
 - [时间计划表](https://github.com/Jamalianpour/time_planner) [66⭐] - 由 [Mohammad Jamalianpour](https://github.com/Jamalianpour) 制作的美观、易于使用和可定制的时间计划表，适用于Flutter移动、桌面和Web端。
+- [无限日历视图](https://github.com/pickywawa/infinite_calendar_view) [42⭐] - 可无限滚动的日历视图（日程规划、单日、多日、月视图和事件列表），支持拖放、双指缩放和多列显示，由 [pickywawa](https://github.com/pickywawa) 制作。
 
 #### 登录
 
